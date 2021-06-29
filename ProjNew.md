@@ -1,5 +1,5 @@
 # How to create repositories and files in github
-## *The dare.io project 1
+## *The dare.io project 1*
 
 
 1. Under the *Repositories Tab* in your user profile page, Click on **New**.
